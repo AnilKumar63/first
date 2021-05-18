@@ -9,10 +9,15 @@
 >Iam PK fan.
 
 'sathyameva jayathe'
+
+
 states | fans
 -------|--------------------
 TS     | lekkapettalenantha  mandhi
 AP     |   question is wrong(all)
 
+
+
 :fire: :fire: :fire:
+
 ##GI HINDH
