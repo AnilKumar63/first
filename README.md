@@ -18,6 +18,7 @@ AP     |   question is wrong(all)
 
 
 
-:fire: :fire: :fire:
+:fire:
+
 
 ##GI HINDH
