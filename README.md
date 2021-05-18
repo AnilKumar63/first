@@ -12,7 +12,7 @@
 
 
 states | fans
--------|--------------------
+-------|----------------
 TS     | lekkapettalenantha  mandhi
 AP     |   question is wrong(all)
 
